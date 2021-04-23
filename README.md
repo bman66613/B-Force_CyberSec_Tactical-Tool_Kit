@@ -1,0 +1,2 @@
+# B-Force_CyberSec_Tactical-Tool_Kit
+This is the *Official* one and only Repository i will do, i will add all of my hacking "bag of tricks" here, mainly for myself as a toolbox i can access from anywhere and run from any device. I will have a live malware sample zoo repository(credit will be given to original sources) and all sorts of techniques ive found myself, plus some tutorials im gonna whip up to make ethical hacking open source and easy &amp; free to learn and understand. Leave notes please!! Notes improve performance. 
