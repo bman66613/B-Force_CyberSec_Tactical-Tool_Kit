@@ -1,0 +1,19 @@
+Welcome to my first repository;
+I will be uploading content here as it comes up in my studies. 
+
+I play with everything from bruteforcing basic-ass NCAP passwords,
+To creating captive portals for Evil/Malicious Wireless Access Points.
+From deauthing drones out of the sky, pranking your friends with SCARY OGGIDY BOOGIDY viruses;
+I use the viruses in the context of like "see this? Not dangerous;
+Sometimes amateur ransomware has the decryption key in the source code"
+
+I also will do tutorials on setting up a virtualbox private network so you can test viruses and ransomware,
+In a safe simulated environment, where no real damage can be caused, but you can test and play with LIVE ransomware,
+And study how it spreads and infects through the network and spreads further, and how to decrypt & reverse engineer it. 
+
+I will upload screen recordings as I get them done, please forgive the slow upload rate,
+As I'm writing up an entire graph so I can cover everything in separate directories inside this repository.
+
+So without further ado, thanks for taking the time to read this;
+Signed: ___Brandan_Bowman-Clift___
+CEO ~ B-force CyberSec
